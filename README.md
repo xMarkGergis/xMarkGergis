@@ -1,5 +1,5 @@
-### Mark.
+## Mark Gergis
 
-#### Software Engineer
+### Software Engineer
 
-##### As a dedicated Software Engineer with a passion for programming and a solid drive to solve complex problems through technology, I am eager to contribute my skills and creativity to build innovative software solutions. Currently seeking  opportunities to collaborate on exciting projects. Let's connect and get on the front of innovation together!
+##### As a Software Engineer with a passion for programming and a solid drive to solve complex problems through technology. I aim to make a meaningful impact by creating cutting-edge solutions that deliver value to users and businesses. With a focus on continuous learning and improvement, I am always seeking ways to enhance my abilities and stay at the forefront of the ever-evolving tech industry. Let's drive innovation together!
