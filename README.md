@@ -2,4 +2,4 @@
 
 #### Software Engineer
 
-##### As a Software Engineer with an enthusiastic passion for programming, and a solid drive to solve complex problems through technology, I aim to make a meaningful impact by creating software solutions that deliver value to Users and Businesses alike. With a pivotal focus on continuous learning and improvement, I always seek ways to enhance my abilities and stay at the forefront of innovation within the tech industry.
+##### My goal is to have a profound and lasting impact by developing various software solutions that benefit both Users and Businesses. As a Software Engineer, I have a strong desire to use technology to solve complicated challenges. I place a strong emphasis on lifelong learning and progress, and I'm constantly looking for methods to better my skills and stay at the forefront of innovation within the tech industry.
